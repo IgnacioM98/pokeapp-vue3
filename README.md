@@ -2,6 +2,8 @@
 
 Test de VUE siguiendo diseño de Figma y haciendo uso de la API `pokeapi.co`
 
+[LIVE DEMO](https://pokeappvue3.web.app/)
+
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
